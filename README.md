@@ -1,5 +1,5 @@
 # 💫 About Me:
- * Passionate software developer, specializing in Java.<br> * Skilled in C, C++, Python, and Mern stack web development (Express, Node.js, MongoDB, React js).<br> * Proficient with Git, GitHub, Docker, and Kubernetes.<br> * Exploring interests in AI, blockchain, Linux, and cybersecurity.<br> * Driven by logical problem-solving and effective UI/UX design.<br>
+ * Passionate software developer, specializing in Java.<br> * Skilled in C, Java, Python, and Mern stack web development (Express, Node.js, MongoDB, React js).<br> * Proficient with Git, GitHub, Docker, and Kubernetes.<br> * Exploring interests in AI, blockchain, Linux, and cybersecurity.<br> * Driven by logical problem-solving and effective UI/UX design.<br>
 
 
 ## 🌐 Socials:
